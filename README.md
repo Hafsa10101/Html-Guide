@@ -1,2 +1,2 @@
-# Html-Guide
-This repository serves as a comprehensive HTML reference guide, providing structured notes and insights into HTML fundamentals. 
+# Odin-lessons
+Committing my learning progress from Odin Projects here!
