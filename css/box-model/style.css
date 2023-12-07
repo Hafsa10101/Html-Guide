@@ -1,0 +1,26 @@
+*{
+    padding: 0;
+    margin: 0;
+    border: 0;
+}
+
+/* It is a border box - so the height and width will include the padding and border. */
+.box-one{
+    box-sizing: border-box;
+    background-color:indianred;
+    width: 100px;
+    height: 100px;
+    padding: 20px;
+    border: 30px solid greenyellow;
+    margin: 40px;
+}
+
+/* It is a normal box model so width and height will exclude margin and padding */
+.box-two{
+    background-color:cornflowerblue;
+    width: 100px;
+    height: 100px;
+    padding: 20px;
+    border: 30px solid rosybrown;
+    margin: 40px;
+}
